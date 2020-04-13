@@ -1,13 +1,26 @@
 # web-dev_001
 <h1>Project folder for web development learning</h1>
 
+<h2> Intro </h2>
 <p>
-Basic html/css/js code for some web messing
+Basic html/css/js codes for some web messing.
+<br>
+My main aim is to explore wed development (front-end) tools to get a hand on this technology.</p>
 
-Resources used, so far:
-
+<h2> Resources (at 13/04/2020)</h2>
+<p> 
+ Resources used, so far :
 <ul>
-<li>Mozilla's MDN </li>
-<li>Free Code Camp</li>
-</ul>
+<li>Mozilla's MDN https://developer.mozilla.org/en-US/docs/Learn</li>
+<li>Free Code Camp https://www.freecodecamp.org/learn/</li> 
+ </ul>
+ 
+ Other resources to cover:
+ <ul>
+  <li>CodePen https://codepen.io/education/ </li>
+  <li>Glitch, creating apps https://glitch.com/create</li>
+  <li>CodeAcademy https://www.codecademy.com/courses/deploy-a-website/lessons/create-static-site</li>
+  <li> Java lessons on https://learnjavascript.online/ </li>
+  </ul>
+ 
 </p>
