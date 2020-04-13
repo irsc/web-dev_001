@@ -13,6 +13,7 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
 <ul>
 <li>Mozilla's MDN https://developer.mozilla.org/en-US/docs/Learn</li>
 <li>Free Code Camp https://www.freecodecamp.org/learn/</li> 
+<li>Hostinger tutorials https://www.hostinger.com/tutorials </li>
  </ul>
  
  Other resources to cover:
