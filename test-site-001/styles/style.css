@@ -1,0 +1,43 @@
+
+
+html {
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
+  background-color: green;
+}
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 50px;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+p{
+	font-size: 16px;
+	color: red;
+	width: 500px;
+    border: 1px solid black;
+}
+
+ul{
+	color:blue;
+	width:300px;
+	padding: 20px 10px 10px 30px;
+	/*border: 2px solid green;*/
+	
+}
+
+.img-01{
+   display: block;
+   margin: 0 auto;
+}
