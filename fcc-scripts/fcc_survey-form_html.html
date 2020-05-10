@@ -1,0 +1,68 @@
+Yearly Survey Form<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<!-- Hello Camper!
+For now, the test suite only works in Chrome! Please read the README below in the JS Editor before beginning. Feel free to delete this message once you have read it. Good luck and Happy Coding! - The freeCodeCamp Team -->
+
+<html>
+ 
+
+  </style>
+  <head>
+    <title> RC Survey Form </title>
+      </head>
+  <body>
+    
+    <div class="box">
+    <header>
+    <h1 id="title" class="text-center">Runners Collective Yearly Survey Form</h1>
+    <p id="description" class="desc text-centre">Thanks for your time helping us to improve our platform</p>
+    </header>
+    
+    <form id="survey-form">
+		<div class="form-section>
+			<label id="name-label"> Name </label><br>
+			<input id="name" type="text" placeholder="Please enter your name" required>
+		</div>
+		<div class="form-section>
+			<label id="email-label">Email</label><br>
+			<input id="email" type="email" placeholder="Please enter your email" required>
+        </div>
+		<div class="form-section>
+           <label id="number-label">Age (optional)</label><br>
+           <input id="number" type="number" min=10 max=99 placeholder="How old are you?"">
+       </div>
+	   <div class="form-section>
+		   <label id="location"> Where do you prefer to do your training? </label><br>
+		   <input id="indoor" type="radio" name="indoor-outdoor" value="indoor"> Indoor <br>
+		   <input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor <br>
+		</div>
+		<div class="form-section>
+			<label id="race">Choose your latest distance in a race:</label><br>
+			<select id="dropdown">
+			  <option value="5k">5 kilometres</option>
+			  <option value="5mile">5 miles</option>
+			  <option value="10k">10 kilometres</option>
+			  <option value="10mile">10 miles</option>
+			  <option value="Half-marathon">Half Marathon</option>
+			  <option value="Marathon">Full Marathon</option>
+			</select>
+		</div>
+		<div class="form-section>
+		   <label id="improvements"> What would you lile to see improved in our website? (Check all that apply)<br>
+			   <input id="training-plans" type="checkbox" name="improvements" value="training-plans"> Training plans<br>             <input id="cross" type="checkbox" name="improvements" value="cross"> Cross-training tips<br>
+			   <input id="races" type="checkbox" name="improvements" value="races"> Information about races<br>
+			   <input id="shoes" type="checkbox" name="improvements" value="shoes"> Shoes and equipment reviews<br>
+			   <input id="testimonials" type="checkbox" name="improvements" value="testimonials"> Blog with testimonial of pro and amateur runners<br>
+			
+		  </label>
+		</div>
+		<div class="form-section>
+		    <label id="comments">Any comments?</label><br>
+			<textarea id="additional-comments" rows="4" cols="50"> Please enter your comments here.
+			</textarea><br><br>
+            <button id="submit"> Submit survey </button>
+		</div>
+      </form>
+    </div>
+  </body>
+</html>
