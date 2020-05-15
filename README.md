@@ -24,6 +24,8 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
   <li>CodeAcademy https://www.codecademy.com/courses/deploy-a-website/lessons/create-static-site</li>
   <li> Java lessons on https://learnjavascript.online/ </li>
   <li>Course Reprot Front End Dev track info https://www.coursereport.com/tracks/front-end-developer</li>
+  <li>Front end challenges https://css-tricks.com/front-end-challenges/</li>
+  <li>Real Though Candy and the The Big List of 101 Places to Learn to Code for Free https://realtoughcandy.com/learn-to-code-for-free/</li>
   </ul>
  
 </p>
