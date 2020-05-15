@@ -23,6 +23,7 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
   <li>Glitch, creating apps https://glitch.com/create</li>
   <li>CodeAcademy https://www.codecademy.com/courses/deploy-a-website/lessons/create-static-site</li>
   <li> Java lessons on https://learnjavascript.online/ </li>
+  <li>Course Reprot Front End Dev track info https://www.coursereport.com/tracks/front-end-developer</li>
   </ul>
  
 </p>
