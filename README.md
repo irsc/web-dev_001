@@ -29,4 +29,52 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
   <li> Roadmap from Kamranahmedse https://roadmap.sh/</li>
   </ul>
  
+ Designing tools
+ <ul>
+ <li> Figma https://webdesign.tutsplus.com/courses/figma-to-html-code-up-a-single-page-design/lessons/create-the-tours-section-grid</li>
+ <li> Adobe xD https://letsxd.com/freebies</li>
+ <li> Nicepage </li>
+ <li> Invision App https://www.invisionapp.com/ </li>
+ </ul>
+ 
+ Additional resources from "Introduction to Web Development" (University of California Davis - Coursera)
+ <ul>
+ <li>HTML Forms Additional Resources</li>
+ <ul>
+  <li>W3 Schools HTML Forms Tutorial</li>
+
+http://www.w3schools.com/html/html_forms.asp
+
+<li>Mozilla - My First HTML Form</li>
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/My_first_HTML_form
+
+<li>HTML Goodies - HTML Form Tutorials</li>
+
+http://www.htmlgoodies.com/tutorials/forms/article.php/3479121
+</ul>
+<li>Validating HTML Forms</li>
+<ul>
+ <li>W3 Schools JavaScript Validation Tutorial</li>
+
+http://www.w3schools.com/js/js_validation.asp
+
+<li>Art of Web: HTML5 Form Validation</li>
+
+http://www.the-art-of-web.com/html/html5-form-validation/
+
+<li>Webucator: JavaScript Form Validation</li>
+
+https://www.youtube.com/watch?v=_Z-0cwONN6c
+
+<li>JavaScript Beginning Tutorial: Form Validation Text Boxes and Passwords</li>
+
+https://www.youtube.com/watch?v=y5UEXujzSag
+
+<li>Form Validation with JavaScript - Check for an Empty Text Field</li>
+
+https://www.youtube.com/watch?v=Pc2e2YpKArg
+</ul>
+</ul>
+ 
 </p>
