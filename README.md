@@ -7,7 +7,7 @@ Basic html/css/js codes for some web messing.
 <br>
 My main aim is to explore wed development (front-end) tools to get a hand on this technology.</p>
 
-<h2> Resources (at 13/04/2020)</h2>
+<h2> Resources (at 25/05/2020)</h2>
 <p> 
  Resources used, so far :
 <ul>
@@ -29,6 +29,7 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
   <li> Roadmap from Kamranahmedse https://roadmap.sh/</li>
   </ul>
  
+ <h2>Design</h2>
  Designing tools
  <ul>
  <li> Figma https://webdesign.tutsplus.com/courses/figma-to-html-code-up-a-single-page-design/lessons/create-the-tours-section-grid</li>
@@ -36,6 +37,15 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
  <li> Nicepage </li>
  <li> Invision App https://www.invisionapp.com/ </li>
  </ul>
+ 
+ Design systems
+ <ul>
+ <li>Lessons https://webdesign.tutsplus.com/courses/introduction-to-design-systems/lessons/what-is-a-design-system</li>
+ <li>Material Desgin (Google) https://material.io/</li>
+ <li>Polaris (Shopify) https://polaris.shopify.com/components/get-started#navigation</li>
+ </ul>
+ 
+ <h2>Additional information</h2>
  
  Additional resources from "Introduction to Web Development" (University of California Davis - Coursera)
  <ul>
