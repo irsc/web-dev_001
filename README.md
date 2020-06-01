@@ -28,6 +28,11 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
   <li>Real Though Candy and the The Big List of 101 Places to Learn to Code for Free https://realtoughcandy.com/learn-to-code-for-free/</li>
   <li> Roadmap from Kamranahmedse https://roadmap.sh/</li>
   </ul>
+  
+  Courses on CSS
+  <ul>
+ <li>Flexbox on Educative https://www.educative.io/courses/understanding-flexbox-everything-you-need-to-know</li>
+ </ul>
  
  <h2>Design</h2>
  Designing tools
@@ -46,6 +51,11 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
  <li>IBM Design system https://www.ibm.com/design/language/</li>
  <li> Garden (Zendesk) https://garden.zendesk.com/</li>
  </ul>
+ 
+ Webs for examples and inspiration
+ <ul>
+ <li> Dribble https://dribbble.com/</li>
+</ul>
  
  <h2>Additional information</h2>
  
