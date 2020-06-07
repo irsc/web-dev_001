@@ -13,6 +13,7 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
 <ul>
 <li>Mozilla's MDN https://developer.mozilla.org/en-US/docs/Learn</li>
 <li>Free Code Camp https://www.freecodecamp.org/learn/</li> 
+ <li>Free Code Camp profile https://www.freecodecamp.org/ignacio_rsc </li>
 <li>Hostinger tutorials https://www.hostinger.com/tutorials </li>
 <li>CodePen https://codepen.io/IgnacioRsc</li>
 <li> Repl.it https://repl.it/@IgnacioRSC/aboutme#.replit (link to forked page example)</li>
@@ -29,6 +30,7 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
   <li>Real Though Candy and the The Big List of 101 Places to Learn to Code for Free https://realtoughcandy.com/learn-to-code-for-free/</li>
   <li> Roadmap from Kamranahmedse https://roadmap.sh/</li>
   </ul>
+
   
   Courses on CSS
   <ul>
@@ -101,3 +103,9 @@ https://www.youtube.com/watch?v=Pc2e2YpKArg
 </ul>
  
 </p>
+
+<h2>What about work?</h2>  
+  Working remotely options
+  <ul>
+ <li>Blog post on Skillcrush https://skillcrush.com/blog/sites-finding-remote-work/#general</li>
+ </ul>
