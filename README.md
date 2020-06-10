@@ -19,7 +19,7 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
 <li> Repl.it https://repl.it/@IgnacioRSC/aboutme#.replit (link to forked page example)</li>
  </ul>
  
- Other resources to cover:
+ Other resources to cover/read:
  <ul>
   <li>Coursera's HTML/CSS/JS course (forked repo) https://github.com/irsc/fullstack-course4 </li>
   <li>Glitch, creating apps https://glitch.com/create</li>
@@ -29,6 +29,7 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
   <li>Front end challenges https://css-tricks.com/front-end-challenges/</li>
   <li>Real Though Candy and the The Big List of 101 Places to Learn to Code for Free https://realtoughcandy.com/learn-to-code-for-free/</li>
   <li> Roadmap from Kamranahmedse https://roadmap.sh/</li>
+  <li> FreeCodeCamp article on Full stack dev https://www.freecodecamp.org/news/how-to-become-a-full-stack-web-developer-in-2020/</li>
   </ul>
 
   
