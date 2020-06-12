@@ -7,15 +7,18 @@ Basic html/css/js codes for some web messing.
 <br>
 My main aim is to explore wed development (front-end) tools to get a hand on this technology.</p>
 
+<h2>Profile/portfolio</h2>
+<ul>
+<li>CodePen https://codepen.io/IgnacioRsc</li>
+<li>Free Code Camp profile https://www.freecodecamp.org/ignacio_rsc </li>
+</ul>
 <h2> Resources (at 25/05/2020)</h2>
 <p> 
  Resources used, so far :
 <ul>
 <li>Mozilla's MDN https://developer.mozilla.org/en-US/docs/Learn</li>
 <li>Free Code Camp https://www.freecodecamp.org/learn/</li> 
- <li>Free Code Camp profile https://www.freecodecamp.org/ignacio_rsc </li>
 <li>Hostinger tutorials https://www.hostinger.com/tutorials </li>
-<li>CodePen https://codepen.io/IgnacioRsc</li>
 <li> Repl.it https://repl.it/@IgnacioRSC/aboutme#.replit (link to forked page example)</li>
  </ul>
  
@@ -24,9 +27,17 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
   <li>Coursera's HTML/CSS/JS course (forked repo) https://github.com/irsc/fullstack-course4 </li>
   <li>Glitch, creating apps https://glitch.com/create</li>
   <li>CodeAcademy https://www.codecademy.com/courses/deploy-a-website/lessons/create-static-site</li>
-  <li> Java lessons on https://learnjavascript.online/ </li>
+ <li> Raact tutorial https://reactjs.org/tutorial/tutorial.html </li>
+ <li> Java lessons on https://learnjavascript.online/ </li>
+ </ul>
+ Challenges type of learning
+ <ul>
+ <li>Front-end mentor https://www.frontendmentor.io/</li>
+ <li>Front end challenges https://css-tricks.com/front-end-challenges/</li>
+</ul>
+ Readings and useful info
+ <ul>  
   <li>Course Reprot Front End Dev track info https://www.coursereport.com/tracks/front-end-developer</li>
-  <li>Front end challenges https://css-tricks.com/front-end-challenges/</li>
   <li>Real Though Candy and the The Big List of 101 Places to Learn to Code for Free https://realtoughcandy.com/learn-to-code-for-free/</li>
   <li> Roadmap from Kamranahmedse https://roadmap.sh/</li>
   <li> FreeCodeCamp article on Full stack dev https://www.freecodecamp.org/news/how-to-become-a-full-stack-web-developer-in-2020/</li>
