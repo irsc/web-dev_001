@@ -45,9 +45,10 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
   </ul>
 
   
-  Courses on CSS
+  Courses and resources on CSS
   <ul>
  <li>Flexbox on Educative https://www.educative.io/courses/understanding-flexbox-everything-you-need-to-know</li>
+ <li> CSS Layout cookbook https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook </li>
  </ul>
  
  <h2>Design</h2>
@@ -67,6 +68,11 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
  <li>IBM Design system https://www.ibm.com/design/language/</li>
  <li> Garden (Zendesk) https://garden.zendesk.com/</li>
  </ul>
+ 
+ Fonts
+ <ul>
+ <li>Envato fonts https://elements.envato.com/fonts</li>
+</ul>
  
  Webs for examples and inspiration
  <ul>
