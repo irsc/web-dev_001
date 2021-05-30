@@ -12,7 +12,7 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
 <li>CodePen https://codepen.io/IgnacioRsc</li>
 <li>Free Code Camp profile https://www.freecodecamp.org/ignacio_rsc </li>
 </ul>
-<h2> Resources (at 25/05/2020)</h2>
+<h2> Resources (at 25/05/2021)</h2>
 <p> 
  Resources used, so far :
 <ul>
@@ -20,6 +20,7 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
 <li>Free Code Camp https://www.freecodecamp.org/learn/</li> 
 <li>Hostinger tutorials https://www.hostinger.com/tutorials </li>
 <li> Repl.it https://repl.it/@IgnacioRSC/aboutme#.replit (link to forked page example)</li>
+<li> Resources from DAW in: https://ikastaroak.birt.eus/edu/argitalpen/backupa/20200331/1920k/Indice_contenidos/website_daw.html</li>
  </ul>
  
  Other resources to cover/read:
@@ -30,6 +31,8 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
  <li> Raact tutorial https://reactjs.org/tutorial/tutorial.html </li>
  <li> Javascript lessons on https://learnjavascript.online/ </li>
  <li> flash.learnjavascript.online  </li>
+ <li> Don't fear the internet http://www.dontfeartheinternet.com/ </li>
+  <li> Course lited in Algoritmo Salvaje from DevExperto and Disco Duro de Roer: https://www.algoritmosalvaje.com/formacion-estudiantes-profesionales-sectorit/</li>
  </ul>
  Challenges type of learning
  <ul>
@@ -42,13 +45,18 @@ My main aim is to explore wed development (front-end) tools to get a hand on thi
   <li>Real Though Candy and the The Big List of 101 Places to Learn to Code for Free https://realtoughcandy.com/learn-to-code-for-free/</li>
   <li> Roadmap from Kamranahmedse https://roadmap.sh/</li>
   <li> FreeCodeCamp article on Full stack dev https://www.freecodecamp.org/news/how-to-become-a-full-stack-web-developer-in-2020/</li>
+  <li> Resilient Web Design https://resilientwebdesign.com/</li>
   </ul>
-
+ GIT
+ <ul>
+  <li> 18 Git commands https://towardsdatascience.com/git-commands-cheat-sheet-software-developer-54f6aedc1c46?gi=6821e3ff17b4 </li>
+ </ul>
   
   Courses and resources on CSS
   <ul>
  <li>Flexbox on Educative https://www.educative.io/courses/understanding-flexbox-everything-you-need-to-know</li>
  <li> CSS Layout cookbook https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook </li>
+ <li> State of CSS 2020 https://2020.stateofcss.com/en-US/</li>
  </ul>
  
  <h2>Design</h2>
